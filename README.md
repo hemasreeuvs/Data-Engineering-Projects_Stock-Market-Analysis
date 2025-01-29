@@ -2,7 +2,9 @@
 
 **Summary of the Project**
 
-In this project, I have developed an ETL pipeline on Real Time Stock Analysis using Kafka
+In this project, I have developed an scalable ETL pipeline to process and analyze stock market trend enabling real time analysis with kafka.
+
+We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 
  **Technologies used in this project**
