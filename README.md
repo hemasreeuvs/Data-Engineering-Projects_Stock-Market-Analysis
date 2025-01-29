@@ -11,6 +11,9 @@ Programming Language: Python
 
 Tools and technologies : Apache kafka, AWS EC2, S3, GLUE, Athena
 
+**Architecture**
+![Architecture](https://github.com/user-attachments/assets/f320b259-46f5-4af6-851a-c32d8faf6bb5)
+
 
 **Data Set used**
 
